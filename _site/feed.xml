@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-24T06:35:01-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Gmail Documentation</title><entry><title type="html">Troubleshooting/support</title><link href="http://localhost:4000/tbl/tbl.html" rel="alternate" type="text/html" title="Troubleshooting/support" /><published>2023-07-24T00:00:00-04:00</published><updated>2023-07-24T00:00:00-04:00</updated><id>http://localhost:4000/tbl/tbl</id><content type="html" xml:base="http://localhost:4000/tbl/tbl.html"><![CDATA[<h1 id="troubleshootingsupport">Troubleshooting/Support</h1>
+
+<p>This section provides solutions to common issues with Gmail and resources for additional support.</p>
+
+<h2 id="forgot-passwordaccount-recovery">Forgot Password/Account Recovery</h2>
+
+<ol>
+  <li>Go to the <a href="https://mail.google.com">Gmail sign-in page</a>.</li>
+  <li>Click “Forgot password?”.</li>
+  <li>Follow the on-screen instructions to recover your account.</li>
+</ol>
+
+<h2 id="unable-to-sign-in">Unable to Sign In</h2>
+
+<p>If you’re sure your password is correct, try these steps:</p>
+
+<ol>
+  <li>Ensure you’re using the latest version of your browser.</li>
+  <li>Clear your browser’s cache and cookies.</li>
+  <li>Try signing in from a different browser or incognito/private browsing window.</li>
+</ol>
+
+<h2 id="emails-not-sent">Emails Not Sent</h2>
+
+<p>If your emails aren’t being sent, try these steps:</p>
+
+<ol>
+  <li>Check your “Outbox” or “Drafts” folder to see if the email is stuck there.</li>
+  <li>Make sure you’re connected to the internet.</li>
+  <li>Make sure you’ve entered the email address correctly.</li>
+</ol>
+
+<h2 id="emails-not-received">Emails Not Received</h2>
+
+<p>If you’re not receiving emails, try these steps:</p>
+
+<ol>
+  <li>Check your “Spam” and “Trash” folders.</li>
+  <li>Make sure you haven’t created a filter that automatically archives or deletes certain emails.</li>
+</ol>
+
+<h2 id="proper-navigation-of-and-reporting-spam-or-phishings">Proper Navigation of and Reporting Spam or Phishings</h2>
+
+<p>To report spam or phishing emails:</p>
+
+<ol>
+  <li>Open the email.</li>
+  <li>Click the three dots at the top right of the email.</li>
+  <li>Click “Report spam” or “Report phishing”.</li>
+</ol>
+
+<h2 id="what-is-email-bouncing">What is Email Bouncing?</h2>
+
+<p>Email bouncing refers to when an email can’t be delivered to an email address. When an email bounces, it’s usually returned to the sender with an explanation of why it bounced.</p>
+
+<h2 id="sync-issues-with-gmail-app">Sync Issues with Gmail App</h2>
+
+<p>If you’re having sync issues with the Gmail app, try these steps:</p>
+
+<ol>
+  <li>Check your internet connection.</li>
+  <li>Make sure sync is turned on in the app settings.</li>
+  <li>Try removing and re-adding your account to the app.</li>
+</ol>
+
+<h2 id="support-contacts-and-resources">Support Contacts and Resources</h2>
+
+<ul>
+  <li><a href="https://support.google.com/mail">Google Help Center</a></li>
+  <li><a href="https://support.google.com/mail/community">Gmail Help Community</a></li>
+</ul>]]></content><author><name></name></author><category term="tbl" /><summary type="html"><![CDATA[Troubleshooting/Support]]></summary></entry><entry><title type="html">Licensing</title><link href="http://localhost:4000/lic/lic.html" rel="alternate" type="text/html" title="Licensing" /><published>2023-07-24T00:00:00-04:00</published><updated>2023-07-24T00:00:00-04:00</updated><id>http://localhost:4000/lic/lic</id><content type="html" xml:base="http://localhost:4000/lic/lic.html"><![CDATA[<h1 id="licensing">Licensing</h1>]]></content><author><name></name></author><category term="lic" /><summary type="html"><![CDATA[Licensing]]></summary></entry><entry><title type="html">Introduction</title><link href="http://localhost:4000/int/int.html" rel="alternate" type="text/html" title="Introduction" /><published>2023-07-24T00:00:00-04:00</published><updated>2023-07-24T00:00:00-04:00</updated><id>http://localhost:4000/int/int</id><content type="html" xml:base="http://localhost:4000/int/int.html"><![CDATA[<h1 id="introduction">Introduction</h1>
+
+<p>Gmail is a free, web-based email service provided by Google. It is one of the most popular email services in the world, with over a billion users as of 2023. Gmail offers a sleek, user-friendly interface, robust spam protection, and a host of features that make email management easy and efficient.</p>
+
+<h2 id="brief-overview-of-gmail-and-its-features">Brief Overview of Gmail and Its Features</h2>
+
+<p>Gmail’s main feature is its email service, but it also offers a number of additional features that enhance the user experience:</p>
+
+<ul>
+  <li><strong>Inbox Organization:</strong> Gmail automatically sorts emails into different tabs like Primary, Social, and Promotions, helping users to keep their inboxes tidy.</li>
+  <li><strong>Spam Protection:</strong> Gmail’s robust spam protection system automatically identifies and filters out spam emails.</li>
+  <li><strong>Integrated Chat:</strong> Gmail offers integrated chat functionality, allowing users to send instant messages, make video calls, and schedule meetings right from their inbox.</li>
+  <li><strong>Smart Compose and Reply:</strong> These AI powered features help users to write emails faster by suggesting completions to sentences or quick responses.</li>
+</ul>
+
+<h2 id="brief-history-and-development-of-gmail">Brief History and Development of Gmail</h2>
+
+<p>Gmail was launched by Google on April 1, 2004, initially as an invitation-only service before becoming available to the general public in 2007. Since its launch, Gmail has undergone numerous updates and redesigns, continually adding new features and improving user experience.</p>
+
+<h2 id="importance-and-benefits-of-gmail-in-daily-life">Importance and Benefits of Gmail in Daily Life</h2>
+
+<p>The importance of Gmail in daily life can’t be overstated. For individuals, it provides an easy-to-use platform for personal communication, networking, and job searching. For businesses, Gmail’s integration with other Google services like Google Calendar and Google Drive makes it a powerful tool for collaboration and productivity. Furthermore, its accessibility on various devices ensures that users have access to their emails anytime, anywhere.</p>]]></content><author><name></name></author><category term="int" /><summary type="html"><![CDATA[Introduction]]></summary></entry><entry><title type="html">Description of Equipment/materials (with illustrations)</title><link href="http://localhost:4000/eqp/eqp.html" rel="alternate" type="text/html" title="Description of Equipment/materials (with illustrations)" /><published>2023-07-24T00:00:00-04:00</published><updated>2023-07-24T00:00:00-04:00</updated><id>http://localhost:4000/eqp/eqp</id><content type="html" xml:base="http://localhost:4000/eqp/eqp.html"><![CDATA[<h1 id="description-of-equipmentmaterials">Description of Equipment/Materials</h1>
+
+<p>This section describes the equipment and materials you need to use Gmail and provides illustrations of key parts of the service.</p>
+
+<h2 id="computerlaptopmobile-device">Computer/Laptop/Mobile Device</h2>
+
+<p>You can access Gmail from any device with an internet connection, including desktop computers, laptops, and mobile devices. Each device provides a slightly different interface and set of features.</p>
+
+<h2 id="internet-connection">Internet Connection</h2>
+
+<p>Gmail requires an internet connection. You can read, respond to, and search your Gmail messages even when you aren’t connected to the Internet by installing the Gmail Offline app from the Google Chrome Browser.</p>
+
+<h2 id="web-browsergmail-app">Web Browser/Gmail App</h2>
+
+<p>You can use any web browser to access Gmail, including Google Chrome, Firefox, Safari, and Edge. Alternatively, you can use the Gmail app on Android and iOS devices.</p>
+
+<h2 id="google-account-details">Google Account Details</h2>
+
+<p>You need a Google Account to sign in to Gmail. If you don’t have one, you can create a Google Account for free.</p>]]></content><author><name></name></author><category term="eqp" /><summary type="html"><![CDATA[Description of Equipment/Materials]]></summary></entry><entry><title type="html">FAQs</title><link href="http://localhost:4000/faq/faq.html" rel="alternate" type="text/html" title="FAQs" /><published>2023-07-24T00:00:00-04:00</published><updated>2023-07-24T00:00:00-04:00</updated><id>http://localhost:4000/faq/faq</id><content type="html" xml:base="http://localhost:4000/faq/faq.html"><![CDATA[<h1 id="frequently-asked-questions">Frequently Asked Questions</h1>
+
+<p>This section provides answers to frequently asked questions about Gmail.</p>
+
+<h2 id="how-to-recover-deleted-emails">How to Recover Deleted Emails</h2>
+
+<ol>
+  <li>Go to the <a href="https://mail.google.com">Gmail homepage</a> and sign in.</li>
+  <li>In the left sidebar, click “Trash”.</li>
+  <li>Find the email you want to recover and check the box next to it.</li>
+  <li>Click “Move to” at the top and select where you want to move the email (usually “Inbox”).</li>
+</ol>
+
+<h2 id="how-to-block-spamunwanted-emails">How to Block Spam/Unwanted Emails</h2>
+
+<ol>
+  <li>Open the email you want to block.</li>
+  <li>Click the three dots at the top right of the email.</li>
+  <li>Click “Block [sender]”.</li>
+</ol>
+
+<h2 id="how-to-use-gmail-offline">How to Use Gmail Offline</h2>
+
+<ol>
+  <li>In Gmail, click the gear icon at the top right and select “See all settings”.</li>
+  <li>Go to the “Offline” tab.</li>
+  <li>Check “Enable offline mail”.</li>
+  <li>Select your preferences and click “Save changes”.</li>
+</ol>
+
+<h2 id="how-to-add-another-account-to-gmail-app">How to Add Another Account to Gmail App</h2>
+
+<ol>
+  <li>Open the Gmail app on your device.</li>
+  <li>Tap your profile picture at the top right.</li>
+  <li>Tap “Add another account”.</li>
+  <li>Follow the on-screen instructions to add your account.</li>
+</ol>
+
+<h2 id="how-to-use-confidential-mode-in-gmail">How to Use Confidential Mode in Gmail</h2>
+
+<ol>
+  <li>Click “Compose” to start a new email.</li>
+  <li>At the bottom of the window, click “Turn on confidential mode”.</li>
+  <li>Set an expiration date and passcode.</li>
+  <li>Compose your email and click “Send”.</li>
+</ol>
+
+<h2 id="how-to-undo-sent-emails">How to Undo Sent Emails</h2>
+
+<ol>
+  <li>After sending an email, you’ll see a message saying “Your message has been sent” and an “Undo” option.</li>
+  <li>Click “Undo” to recall the email.</li>
+</ol>
+
+<h2 id="how-to-schedule-send-in-gmail">How to Schedule Send in Gmail</h2>
+
+<ol>
+  <li>Compose your email.</li>
+  <li>Instead of clicking “Send”, click the arrow next to it and select “Schedule send”.</li>
+  <li>Choose a date and time to send the email.</li>
+</ol>]]></content><author><name></name></author><category term="faq" /><summary type="html"><![CDATA[Frequently Asked Questions]]></summary></entry><entry><title type="html">Instructions</title><link href="http://localhost:4000/ins/ins.html" rel="alternate" type="text/html" title="Instructions" /><published>2023-07-24T00:00:00-04:00</published><updated>2023-07-24T00:00:00-04:00</updated><id>http://localhost:4000/ins/ins</id><content type="html" xml:base="http://localhost:4000/ins/ins.html"><![CDATA[<h1 id="instructions-for-use">Instructions for Use</h1>
+
+<p>This section will guide you through the basic features of Gmail.</p>
+
+<h2 id="creating-an-account">Creating an Account</h2>
+
+<ol>
+  <li>Go to the <a href="https://mail.google.com">Gmail homepage</a>.</li>
+  <li>Click on “Create account”.</li>
+  <li>Fill out the form with your first and last name, desired email address, password, and phone number.</li>
+  <li>Click “Next” and follow the on-screen instructions to complete the setup of your new Gmail account.</li>
+</ol>
+
+<h2 id="signing-into-gmail">Signing Into Gmail</h2>
+
+<ol>
+  <li>Visit the <a href="https://mail.google.com">Gmail login page</a>.</li>
+  <li>Enter your Gmail email address and click “Next”.</li>
+  <li>Enter your password and click “Next” again to sign in.</li>
+</ol>
+
+<h2 id="understanding-the-gmail-interface">Understanding the Gmail Interface</h2>
+
+<p>The Gmail interface consists of three main parts: the sidebar, the inbox, and the reading pane. The sidebar contains links to different sections of Gmail (like Inbox, Starred, Sent, etc.), as well as any labels you’ve created. The inbox shows a list of your emails, and the reading pane displays the content of the currently selected email.</p>
+
+<h2 id="composing-and-sending-email">Composing and Sending Email</h2>
+
+<ol>
+  <li>Click the “Compose” button in the left sidebar.</li>
+  <li>In the New Message window, enter the recipient’s email address, the subject of the email, and your message.</li>
+  <li>When you’re ready, click “Send”.</li>
+</ol>
+
+<h2 id="reading-and-replying-to-email">Reading and Replying to Email</h2>
+
+<ol>
+  <li>Click on an email in your inbox to open it in the reading pane.</li>
+  <li>To reply, click the “Reply” button below the email.</li>
+  <li>Write your response and click “Send”.</li>
+</ol>
+
+<h2 id="organizing-emails">Organizing Emails</h2>
+
+<p>You can organize your emails by using labels, stars, and filters. Labels are like folders, but an email can have multiple labels. Stars are a way to highlight important emails. Filters can automatically label, archive, delete, star, or forward your emails based on specific criteria.</p>
+
+<h2 id="using-the-search-feature">Using the Search Feature</h2>
+
+<p>You can use the search bar at the top of the Gmail interface to find emails. You can search for words that appear in any part of the email, or use search operators to filter your search.</p>
+
+<h2 id="adding-contacts">Adding Contacts</h2>
+
+<ol>
+  <li>Click on the Google Apps icon (the grid of squares at the top right of the screen) and select “Contacts”.</li>
+  <li>Click “Create contact” and enter the person’s information.</li>
+  <li>Click “Save”.</li>
+</ol>
+
+<h2 id="using-other-features">Using Other Features</h2>
+
+<p>Gmail integrates with other Google services like Google Meet and Google Keep. You can start a new Google Meet video call directly from Gmail, or open Google Keep to take notes without leaving your inbox.</p>]]></content><author><name></name></author><category term="ins" /><summary type="html"><![CDATA[Instructions for Use]]></summary></entry><entry><title type="html">Reference List</title><link href="http://localhost:4000/ref/reference_list.html" rel="alternate" type="text/html" title="Reference List" /><published>2023-07-22T00:00:00-04:00</published><updated>2023-07-22T00:00:00-04:00</updated><id>http://localhost:4000/ref/reference_list</id><content type="html" xml:base="http://localhost:4000/ref/reference_list.html"><![CDATA[<h1 id="reference-list">Reference List</h1>]]></content><author><name></name></author><category term="ref" /><summary type="html"><![CDATA[Reference List]]></summary></entry><entry><title type="html">Copyright Notice</title><link href="http://localhost:4000/meta/template_license.html" rel="alternate" type="text/html" title="Copyright Notice" /><published>2023-07-22T00:00:00-04:00</published><updated>2023-07-22T00:00:00-04:00</updated><id>http://localhost:4000/meta/template_license</id><content type="html" xml:base="http://localhost:4000/meta/template_license.html"><![CDATA[<h1 id="copyright-notice">Copyright Notice</h1>
+
+<p>This website utilizes software created by Byron Ruth and hosted on <a href="https://github.com/bruth/jekyll-docs-template/">Github</a>.  This website is legally required to contain the following copyright notice.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Copyright (c) 2013 Byron Ruth
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+</code></pre></div></div>]]></content><author><name></name></author><category term="meta" /><summary type="html"><![CDATA[Copyright Notice]]></summary></entry></feed>
