@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Troubleshooting/support
+title: Troubleshooting/Technical Support
 categories: tbl
 ---
 
-# Troubleshooting/Support
+# Troubleshooting/Technical Support
 
 This section provides solutions to common issues with Gmail and resources for additional support.
 
