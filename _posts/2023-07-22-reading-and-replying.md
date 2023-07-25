@@ -11,7 +11,7 @@ Click on an email in the inbox section. This will open the email's reading pane.
 
 ## Replying to an Email
 
-To reply, click the "Reply" button below the email. This will open a new message window nearly identical to the new message window that appears when the compose button is clicked.  Refer to the section on composing emails for further instruction on composing this reply.
+To reply, click the "Reply" button below the body text of the email. This will open a new message window nearly identical to the new message window that appears when the compose button is clicked.  Refer to the section on composing emails for further instruction on composing this reply.
 
 ## Forwarding an Email
 

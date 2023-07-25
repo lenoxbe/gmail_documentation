@@ -49,7 +49,9 @@ code {
 #navigation {
     font-size: 0.9em;
 }
-
+#navigation li {
+	min-width: 100px;
+}
 #navigation li a {
     padding-left: 10px;
     padding-right: 10px;

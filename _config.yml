@@ -25,7 +25,6 @@ sections: [
     ['tbl', 'Troubleshooting'],
     ['faq', 'FAQs'],
     ['lic', 'Licensing'],
-    ['ref', 'References'],
     ['meta', 'Software Licensing for This Site']
 ]
 

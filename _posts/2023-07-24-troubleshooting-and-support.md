@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Troubleshooting/Technical Support
+title: Troubleshooting and Technical Support
 categories: tbl
 ---
 

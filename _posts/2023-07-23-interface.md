@@ -15,27 +15,27 @@ The Gmail webpage interface is divided into four main sections:
 
 ## The Sidebar
 
-The sidebar contains links to different views of your inbox that will display specific types of emails depending on how the email are categorized.
+The sidebar contains links to different views of the inbox that will display specific types of emails depending on how the email are categorized.
 
 These views will display the following types of emails:
-- **Inbox:** Your main inbox, which will display all emails.
-- **Starred:** All emails you have "starred." Starring emails is usually used to mark emails as important, or needing urgent attention.
-- **Snoozed:** All emails you have labeled as "snoozed." Snoozing emails is usually used to mark emails as less important or less time-sensitive.
-- **Sent:** All emails you have sent.
-- **Drafts:** All emails you have begun writing, but have not sent.
-- **Labels:** All Labels you have created will be listed here.  Labels can be used to categorize your emails.
+- **Inbox:** The main inbox, which will display all emails.
+- **Starred:** All emails the user has "starred." Starring emails is usually used to mark emails as important, or needing urgent attention.
+- **Snoozed:** All emails the user has labeled as "snoozed." Snoozing emails is usually used on emails that are not time-sensitive and that can be received again at a later date.
+- **Sent:** All emails the user has sent.
+- **Drafts:** All emails that the user has begun writing, but have not been sent.
+- **Labels:** All Labels the user has created will be listed here.  Labels can be used to organize emails.
 
 ## The Inbox
 
-The inbox displays a list of your emails and the information associated with each email such as the sender, the subject, a small amount of the message text, and the date and time it was sent.  If the email was sent on the current date, the inbox will just display the time that the email was sent.
+The inbox displays a list of emails and the information associated with each email such as the sender, the subject, a small amount of the message text, and the date and time it was sent.  If the email was sent on the current date, the inbox will just display the time that the email was sent.
 Other than displaying emails, the inbox section has the following features listed below.
 
 The inbox allows the user to: 
 - Click emails to display the reading pane for that email
 - Select emails, or select all emails
-- Add different categories/apply different labels to emails as well as star emails, snooze emails, mark emails as read/unread (marking an email as read will make it appear dim in your inbox, while marking an email as unread will make it appear bright in your inbox), and mark emails as important.
+- Add different categories/apply different labels to emails as well as star emails, snooze emails, mark emails as read/unread (marking an email as read will make it appear dim in the inbox, while marking an email as unread will make it appear bright in the inbox), and mark emails as important.
 - Refresh their inbox
-- Switch between email categories.  These category views will only show emails marked as in the selected category.  Categories are listed directly above the messages in your inbox.
+- Switch between email categories.  These category views will only show emails marked as in the selected category.  Categories are listed directly above the messages in the inbox.
 	The default categories are:
 	- Primary
 	- Promotions
@@ -85,4 +85,4 @@ The reading pane for an email contains the following information and features:
 		- Adding a star to an email
 		- Creating an event (which is beyond the scope of this documentation)
 		- Create a filter for emails
-		- Mute the conversation (which will automatically archive emails in that message thread, removing them from your inbox)
+		- Mute the conversation (which will automatically archive emails in that message thread, removing them from the inbox)
