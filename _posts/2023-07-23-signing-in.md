@@ -11,4 +11,4 @@ categories: ins
 4. Enter the password to your Gmail account and click "Next" again to sign in.
 5. You will now see the inbox of your Gmail account, which should look similar to the image below.
 	
-	<img src="/images/inbox.jpg" alt="Gmail Inbox" style="width: 70%;">
+	<img src="{{ site.baseurl }}/images/inbox.jpg" alt="Gmail Inbox" style="width: 70%;">

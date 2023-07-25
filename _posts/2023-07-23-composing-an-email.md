@@ -7,7 +7,7 @@ categories: ins
 
 1. Click the "Compose" button at the top of the left sidebar.  A new message window will appear in the bottom right corner of the web page.
 
-	<img src="/images/labeled_new_message_window.jpg" alt="New Message Window" style="width: 80%;">
+	<img src="{{ site.baseurl }}/images/labeled_new_message_window.jpg" alt="New Message Window" style="width: 80%;">
 	
 2. The new message window has three sections, from top to bottom, these are:
 	1. The Recipients Section

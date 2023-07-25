@@ -8,7 +8,7 @@ categories: ins
 2. Navigate to the Gmail Homepage by clicking [here](https://mail.google.com) or entering "https://mail.google.com" into your url bar and hitting the enter key.
 3. Click on "Create account".
     
-	<img src="/images/create_account.png" alt="Create Account Link" style="width: 200px;">
+	<img src="{{ site.baseurl }}/images/create_account.png" alt="Create Account Link" style="width: 200px;">
 4. Follow the on-screen instructions.
     1. Enter your first and last name. Click "Next."
 	2. Enter your date of birth and gender. Click "Next."
@@ -21,6 +21,6 @@ categories: ins
 	9. Review your account information.  Make sure your name and preferred email address are listed correctly.  Click "Next."
 	10. Read Google's Terms of Service, linked near the top of the webpage your are now viewing.  Also read Google's Privacy Policy, also linked on this webpage.  If these terms are acceptable to you, click "I agree."  Otherwise, click "Cancel."  In the event that these terms are not acceptable to you, you will not be able to create a Gmail account.
 		
-		<img width="200px;" src="/images/TOS.png" alt="Terms of Service and Privacy Policy Links">
+		<img width="200px;" src="{{ site.baseurl }}/images/TOS.png" alt="Terms of Service and Privacy Policy Links">
 	11. Gmail will now create your account.  This will take several seconds.
 	12. You will now see the inbox for your Gmail account.  Congratulations! You now have a Gmail account.

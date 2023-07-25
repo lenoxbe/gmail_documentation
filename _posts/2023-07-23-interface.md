@@ -11,7 +11,7 @@ The Gmail webpage interface is divided into four main sections:
 3. The Search Bar
 4. The Reading Pane
 
-<img src="/images/interface.jpg" alt="Gmail Interface" style="width: 80%;">
+<img src="{{ site.baseurl }}/images/interface.jpg" alt="Gmail Interface" style="width: 80%;">
 
 ## The Sidebar
 
@@ -60,7 +60,7 @@ The user can search for mail which:
 
 The reading pane displays the content of the currently selected email.
 
-<img src="/images/reading-pane.jpg" alt="Reading Pane" style="width: 80%;">
+<img src="{{ site.baseurl }}/images/reading-pane.jpg" alt="Reading Pane" style="width: 80%;">
 
 The reading pane for an email contains the following information and features:
 - The subject of the email

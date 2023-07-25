@@ -20,7 +20,7 @@ Gmail requires an internet connection. A user can read, respond to, and search t
 
 Gmail can be accessed using any web browser, including Google Chrome, Firefox, Safari, and Edge. Alternatively, Gmail can be accessed via the Gmail app on devices running an Android, iOS, or Google operating system. 
 The most common laptop and desktop operating systems come with a web browser pre-installed.  Each of the following are appropriate for accessing Gmail:
-<img src="/images/browsers.jpg" alt="Web Browser Logos" width="200" style="float: right;"/>
+<img src="{{ site.baseurl }}/images/browsers.jpg" alt="Web Browser Logos" width="200" style="float: right;"/>
 
 * On MacOS: Safari
 * On Windows: Internet Explorer or Microsoft Edge
@@ -28,7 +28,7 @@ The most common laptop and desktop operating systems come with a web browser pre
 
 On Mobile Devices:
 
-<img src="/images/Gmail_icon.png" alt="Gmail App Logo" width="100" style="float: right;"/>
+<img src="{{ site.baseurl }}/images/Gmail_icon.png" alt="Gmail App Logo" width="100" style="float: right;"/>
 
 * iOS: Navigate to the app store, search Gmail.  Tap the install button.
 * Android: Most distributions of this operating system come with Gmail pre-installed.
