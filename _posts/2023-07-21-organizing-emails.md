@@ -72,8 +72,8 @@ Snoozed emails can also be viewed.  To do this, click "Snoozed" in the left side
 Filters have many purposes.  They can:
 - Make specified emails skip the inbox
 - Automatically mark specified emails as read
-- Automatically star specified Emails
-- Automaticaly apply a label to specified Emails
+- Automatically star specified emails
+- Automaticaly apply a label to specified emails
 - Automatically forward specified emails
 - Automatically delete specified emails
 - Prevent specified emails from being sent to spam
@@ -113,7 +113,7 @@ There are two methods of creating a filter. The first way is to select one or mo
 1. Click the "Show search options" button within the search box.
 
 	<img src="{{ site.baseurl }}/images/filter4.png" alt="Filter" style="width: 80%;">
-2. A new filter window will appear on the web page. There are two new paramters: "date within," which is a range of date option, and an option allowing a choice of which inbox to search.
+2. A new filter window will appear on the web page. There are two new parameters: "date within," which is a range of date option, and an option allowing a choice of which inbox to search.
 3. Refer back to steps 4 through 7 in method one.
 
 	<img src="{{ site.baseurl }}/images/filter5.png" alt="Filter" style="width: 80%;">
