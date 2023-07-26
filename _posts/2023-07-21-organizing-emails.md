@@ -90,7 +90,10 @@ Emails are filtered based on a user-defined search criteria.  This criteria incl
 - Whether the email's size is greater than a limit
 - Whether the email has attachments
 
-To create a filter:
+To create a filter, there are two ways of doing so. First is selecting one or multiple emails, and the second way is to not begin by selecting any email(s).
+
+First way:
+
 1. Check the checkbox of the type of email to filter in the inbox
 2. Click the three dots on the right hand side of the toolbar at the top of the inbox
 3. Click "Filter messages like these."
@@ -98,3 +101,17 @@ To create a filter:
 5. Click "Create filter."
 6. Check the box(es) that decide what Gmail will do with emails that match the filter's search criteria
 7. Click "Create filter."
+
+<img src="{{ site.baseurl }}/images/filter1.png" alt="Filter" style="width: 80%;">
+<img src="{{ site.baseurl }}/images/filter2.png" alt="Filter" style="width: 80%;">
+<img src="{{ site.baseurl }}/images/filter3.png" alt="Filter" style="width: 80%;">
+
+Second way:
+
+1. Click the "Show search options" button within the search box. 
+2. You will be brought to a similar screen as the previous steps. The only difference are two new paramters: "date within," which is a range of date option, and an option of which inbox type to search within.
+3. Refer back to steps 4 to 7.
+
+<img src="{{ site.baseurl }}/images/filter4.png" alt="Filter" style="width: 80%;">
+<img src="{{ site.baseurl }}/images/filter5.png" alt="Filter" style="width: 80%;">
+<img src="{{ site.baseurl }}/images/filter3.png" alt="Filter" style="width: 80%;">

@@ -5,6 +5,8 @@ categories: ins
 ---
 # Reading, Replying, and Forwarding
 
+<img src="{{ site.baseurl }}/images/reply_forward.png" alt="Reply and Forward" style="width: 80%;">
+
 ## Reading an Email
 
 Click on an email in the inbox section. This will open the email's reading pane.  Here, the email's contents can be viewed.
