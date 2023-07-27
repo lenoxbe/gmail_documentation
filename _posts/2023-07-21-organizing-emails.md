@@ -37,7 +37,7 @@ Categories are nearly identical to labels, but the user cannot create new catego
 
 Categories are applied to emails the exact same way labels are.  To do this:
 1. Check the box of the email(s) to be labeled
-2. Click the labels button on the sidebar at the top of the inbox
+2. Click the labels button on the toolbar at the top of the inbox
 3. Check the box of the category in which the email belongs
 4. Click "Apply."
 
