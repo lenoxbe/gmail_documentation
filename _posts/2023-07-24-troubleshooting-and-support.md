@@ -45,10 +45,6 @@ To report spam or phishing emails:
 2. Click the three dots at the top right of the email.
 3. Click "Report spam" or "Report phishing".
 
-## What is Email Bouncing?
-
-Email bouncing refers to when an email can't be delivered to an email address. When an email bounces, it's usually returned to the sender with an explanation of why it bounced.
-
 ## Sync Issues with Gmail App
 
 If you're having sync issues with the Gmail app, try these steps:

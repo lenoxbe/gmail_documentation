@@ -18,9 +18,10 @@ Emails can be organized in many different ways including:
 Labels are used to tag emails with various information.  For example, one might have a work label, bills label, social label, family label, etc.
 
 In order to use labels, they first must be created.  To create a label:
-1. Click the plus button on the sidebar next to the "Labels" heading.  This will bring up a window on the center of the webpage.
-2. Enter the new label's name.
-3. If desired, the label can be a child label of another label.  This is purely for organizational reasons; the two labels will act as separate labels.
+1. Click the plus button on the sidebar next to the "Labels" heading.  
+	<span class="aside">This will bring up a window on the center of the webpage.</span>
+2. Enter the new label's name.  
+	<span class="aside">If desired, the label can be a child label of another label.  This is purely for organizational reasons; the two labels will act as separate labels.</span>
 4. Click "Create."
 
 Labels can be used by clicking on an email in the inbox, then clicking the Labels button on the toolbar at the top of the reading pane.  The label(s) that the user wishes to apply to the email can be applied by clicking the checkboxes next to the label names.
@@ -92,7 +93,7 @@ Emails are filtered based on a user-defined search criteria.  This criteria incl
 
 There are two methods of creating a filter. The first way is to select one or more emails, and the second way is without selecting any email(s).
 
-### Method One
+### Creating Filters By Selecting Emails
 
 1. Check the checkbox of the type of email to filter in the inbox
 2. Click the three dots on the right hand side of the toolbar at the top of the inbox
@@ -108,13 +109,13 @@ There are two methods of creating a filter. The first way is to select one or mo
 
 	<img src="{{ site.baseurl }}/images/filter3.png" alt="Filter" style="width: 80%;">
 
-### Method Two
+### Creating Filters Without Selecting Emails
 
 1. Click the "Show search options" button within the search box.
 
 	<img src="{{ site.baseurl }}/images/filter4.png" alt="Filter" style="width: 80%;">
 2. A new filter window will appear on the web page. There are two new parameters: "date within," which is a range of date option, and an option allowing a choice of which inbox to search.
-3. Refer back to steps 4 through 7 in method one.
+3. Refer back to steps 4 through 7 in the "Creating Filters By Selecting Emails" section.
 
 	<img src="{{ site.baseurl }}/images/filter5.png" alt="Filter" style="width: 80%;">
 	<img src="{{ site.baseurl }}/images/filter3.png" alt="Filter" style="width: 80%;">

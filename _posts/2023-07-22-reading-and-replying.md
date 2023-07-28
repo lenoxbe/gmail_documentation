@@ -20,5 +20,5 @@ To reply, click the "Reply" button below the body text of the email. This will o
 Forwarding an email can be thought of as sending a copy of an email to someone.  To do this, follow these steps:
 1. Open an email and click the Forward button below the message text.  
 2. Enter recipients, Cc recipients, and Bcc recipients.  
-3. Forwarding a message also presents the option to compose an email over the forwarded message.  If desired, compose this message.
+3. If desired, compose a message over the forwarded email.
 4. Click "Send."

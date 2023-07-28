@@ -13,6 +13,11 @@ pre, code, pre code {
     background-color: #f9f9f9;
 }
 
+.aside {
+	font-size: 9pt;
+	color: #999;
+}
+
 pre {
     font-size: 1em;
 }
