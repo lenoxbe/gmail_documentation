@@ -7,6 +7,10 @@ categories: ins
 
 The search bar is useful for finding emails, especially in a cluttered inbox.
 
+The search bar can be found at the top of the Gmail webpage.
+
+<img src="{{ site.baseurl }}/images/search-bar.jpg" alt="Search Bar" style="width: 80%;">
+
 Gmail allows for the following search options:
 
 1. To search for mail that contains exact wording in the body text

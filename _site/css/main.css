@@ -2,6 +2,10 @@ body {
     font-weight: 400;
 }
 
+img {
+	box-shadow: 0 3px 6px black;
+}
+
 pre, code, pre code {
     border: none;
     border-radius: 0;
@@ -16,6 +20,22 @@ pre, code, pre code {
 .aside {
 	font-size: 9pt;
 	color: #999;
+}
+
+.inbox-highlight {
+	color: #65D6D0;
+}
+
+.sidebar-highlight {
+	color: #3031CA;
+}
+
+.search-bar-highlight {
+	color: #3CC43C;
+}
+
+.reading-pane-highlight {
+	color: #ED1C24;
 }
 
 pre {
