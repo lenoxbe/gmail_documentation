@@ -6,18 +6,19 @@ categories: ins
 # Organizing Emails
 
 Emails can be organized in many different ways including:
-- Labels
-- Categories
-- Stars
-- Marking emails as important
-- Snoozing emails
-- Filters
+- <a href="#labels">Labels</a>
+- <a href="#categories">Categories</a>
+- <a href="#stars">Stars</a>
+- <a href="#important">Marking emails as important</a>
+- <a href="#snoozing">Snoozing emails</a>
+- <a href="#filters">Filters</a>
 
+<a id="labels"></a>
 ## Labels
 
 Labels are used to tag emails with various information.  For example, one might have a work label, bills label, social label, family label, etc.
 
-### Creating Labels
+#### Creating Labels
 
 In order to use labels, they first must be created.  To create a label:
 1. Click the plus button on the sidebar next to the "Labels" heading.  
@@ -32,7 +33,7 @@ In order to use labels, they first must be created.  To create a label:
 
 <img src="{{ site.baseurl }}/images/label2.png" alt="Filter" style="width: 80%;">
 
-### Applying Labels
+#### Applying Labels
 
 Labels can be used by clicking on an email in the inbox, then clicking the Labels button on the toolbar at the top of the reading pane.  The label(s) that the user wishes to apply to the email can be applied by clicking the checkboxes next to the label names.
 
@@ -40,12 +41,12 @@ Labels can be used by clicking on an email in the inbox, then clicking the Label
 
 <img src="{{ site.baseurl }}/images/label4.png" alt="Filter" style="width: 80%;">
 
-### Sorting By Labels
+#### Sorting By Labels
 
 To view all emails with a specific label, click on a label on the sidebar on the left-hand side of the web page.
 
 <img src="{{ site.baseurl }}/images/label5.png" alt="Filter" style="width: 80%;">
-
+<a id="categories"></a>
 ## Categories
 
 Categories are nearly identical to labels, but the user cannot create new categories.  The default categories are:
@@ -54,7 +55,7 @@ Categories are nearly identical to labels, but the user cannot create new catego
 - Forums
 - Promotions
 
-### Applying Categories
+#### Applying Categories
 
 Categories are applied to emails the exact same way labels are.  To do this:
 1. Check the box of the email(s) to be labeled
@@ -64,39 +65,49 @@ Categories are applied to emails the exact same way labels are.  To do this:
 
 <img src="{{ site.baseurl }}/images/cat1.png" alt="Filter" style="width: 80%;">
 
-### Sorting By Categories
+#### Sorting By Categories
 
 To view all emails in a category, click the "More" dropdown menu on the left sidebar.  Then, click the "Categories" dropdown menu.  Lastly, click the category to display.
 
 <img src="{{ site.baseurl }}/images/cat2.png" alt="Filter" style="width: 80%;">
 
 <img src="{{ site.baseurl }}/images/cat3.png" alt="Filter" style="width: 80%;">
-
+<a id="stars"></a>
 ## Stars
+
+#### Applying Stars
 
 Stars are also very similar to a label.  To star emails, click the star icon just beside the checkbox of the email in the inbox.
 
 <img src="{{ site.baseurl }}/images/star1.png" alt="Filter" style="width: 80%;">
 
+#### Viewing Starred Emails
+
 To view starred emails, click "Starred" on the left sidebar.
 
 <img src="{{ site.baseurl }}/images/star2.png" alt="Filter" style="width: 80%;">
+<a id="important"></a>
+## Important Emails
 
-## Marking Emails as Important
+#### Marking Emails as Important
 
 To mark an email as important, select the checkbox of the email(s) to be marked as important, click the three dots on the right side of the toolbar at the top of the inbox, then click "Mark as important."
 
 <img src="{{ site.baseurl }}/images/important1.png" alt="Filter" style="width: 80%;">
+
+#### Viewing Important Emails
 
 To view emails marked as important, click the "More" dropdown list on the left sidebar, then click "Important."
 
 <img src="{{ site.baseurl }}/images/important2.png" alt="Filter" style="width: 80%;">
 
 <img src="{{ site.baseurl }}/images/important3.png" alt="Filter" style="width: 80%;">
-
+<a id="snoozing"></a>
 ## Snoozing Emails
 
 When an email is snoozed, it will be removed from the inbox until a later, user decided date and time.
+
+#### Snoozing an Email
 
 To snooze an email:
 1. Check the boxes of the email(s) to be snoozed in the inbox
@@ -107,10 +118,12 @@ To snooze an email:
 <img src="{{ site.baseurl }}/images/snooze1.png" alt="Filter" style="width: 80%;">
 
 
+#### Viewing Snoozed Emails
+
 Snoozed emails can also be viewed.  To do this, click "Snoozed" in the left sidebar.
 
 <img src="{{ site.baseurl }}/images/snooze2.png" alt="Filter" style="width: 80%;">
-
+<a id="filters"></a>
 ## Filters
 
 Filters have many purposes.  They can:
