@@ -17,6 +17,8 @@ Emails can be organized in many different ways including:
 
 Labels are used to tag emails with various information.  For example, one might have a work label, bills label, social label, family label, etc.
 
+### Creating Labels
+
 In order to use labels, they first must be created.  To create a label:
 1. Click the plus button on the sidebar next to the "Labels" heading.  
 	<span class="aside">This will bring up a window on the center of the webpage.</span>
@@ -30,11 +32,15 @@ In order to use labels, they first must be created.  To create a label:
 
 <img src="{{ site.baseurl }}/images/label2.png" alt="Filter" style="width: 80%;">
 
+### Applying Labels
+
 Labels can be used by clicking on an email in the inbox, then clicking the Labels button on the toolbar at the top of the reading pane.  The label(s) that the user wishes to apply to the email can be applied by clicking the checkboxes next to the label names.
 
 <img src="{{ site.baseurl }}/images/label3.png" alt="Filter" style="width: 80%;">
 
 <img src="{{ site.baseurl }}/images/label4.png" alt="Filter" style="width: 80%;">
+
+### Sorting By Labels
 
 To view all emails with a specific label, click on a label on the sidebar on the left-hand side of the web page.
 
@@ -48,6 +54,8 @@ Categories are nearly identical to labels, but the user cannot create new catego
 - Forums
 - Promotions
 
+### Applying Categories
+
 Categories are applied to emails the exact same way labels are.  To do this:
 1. Check the box of the email(s) to be labeled
 2. Click the labels button on the toolbar at the top of the inbox
@@ -55,6 +63,8 @@ Categories are applied to emails the exact same way labels are.  To do this:
 4. Click "Apply."
 
 <img src="{{ site.baseurl }}/images/cat1.png" alt="Filter" style="width: 80%;">
+
+### Sorting By Categories
 
 To view all emails in a category, click the "More" dropdown menu on the left sidebar.  Then, click the "Categories" dropdown menu.  Lastly, click the category to display.
 
